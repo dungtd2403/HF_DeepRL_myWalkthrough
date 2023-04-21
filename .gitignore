@@ -1,0 +1,5 @@
+*.zip 
+*.pt
+*.pickle
+*.pyc
+*.pth
